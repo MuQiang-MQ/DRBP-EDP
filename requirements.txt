@@ -1,0 +1,5 @@
+streamlit==1.39.0
+torch==2.0.1
+transformers==4.31.0
+pandas==2.0.3
+altair==5.4.1
