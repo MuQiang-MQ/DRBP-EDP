@@ -57,3 +57,19 @@
        Local URL:  http://localhost:8501
        Network URL:  http://<your-network-ip>:8501
     9. **Access the Application**: Once the Streamlit app is running, it should automatically open in your browser. If it doesn't, or if you want to manually check, simply open your browser and navigate to `http://localhost:8501` to view and interact with the web application.
+
+**Other methods:**
+| Methods | Prediction Types | Server Links | Citations  |
+|--------------------------|-----------|----------|------------------------------|
+| **PlDBPred** | DBPs | [https://iasri-sg.icar.gov.in/pldbpred/](https://iasri-sg.icar.gov.in/pldbpred/) | [PlDBPred: a novel computational model for discovery of DNA binding proteins in plants](https://doi.org/10.1093/bib/bbac483) |
+| **DPP-PseAAC** | DBPs | [http://77.68.43.135:8080/DPP-PseAAC/](http://77.68.43.135:8080/DPP-PseAAC/) | [DPP-PseAAC: A DNA-binding protein prediction model using Chou’s general PseAAC](https://doi.org/10.1016/j.jtbi.2018.05.006) |
+| **ProkDBP** | DBPs | [https://iasri-sg.icar.gov.in/prokdbp/](https://iasri-sg.icar.gov.in/prokdbp/) | [ProkDBP: Toward more precise identification of prokaryotic DNA binding proteins](https://doi.org/10.1002/pro.5015) |
+| **Deep-RBPPred** | RBPs | [http://www.rnabinding.com/Deep_RBPPred/Deep-RBPPred.html](http://www.rnabinding.com/Deep_RBPPred/Deep-RBPPred.html) | [Deep-RBPPred: Predicting RNA binding proteins in the proteome scale based on deep learning](https://doi.org/10.1038/s41598-018-33654-x) |
+| **catRAPID signature** | RBPs | [http://s.tartaglialab.com/new_submission/signature](http://s.tartaglialab.com/new_submission/signature) | [catRAPID signature: identification of ribonucleoproteins and RNA-binding regions](https://doi.org/10.1093/bioinformatics/btv629) |
+| **RBPLight** | RBPs | [https://iasri-sg.icar.gov.in/rbplight/](https://iasri-sg.icar.gov.in/rbplight/) | [RBPLight: a computational tool for discovery of plant-specific RNA-binding proteins using light gradient boosting machine and ensemble of evolutionary features](https://doi.org/10.1093/bfgp/elad016) |
+| **DeepDRBP-2L** | DBPs/RBPs | [http://bliulab.net/DeepDRBP-2L](http://bliulab.net/DeepDRBP-2L) | [DeepDRBP-2L: A New Genome Annotation Predictor for Identifying DNA-Binding Proteins and RNA-Binding Proteins Using Convolutional Neural Network and Long Short-Term Memory](https://doi.org/10.1109/TCBB.2019.2952338) |
+| **iDRBP-ECHF** | DBPs/RBPs | [http://bliulab.net/iDRBP-ECHF](http://bliulab.net/iDRBP-ECHF) | [iDRBP-ECHF: Identifying DNA- and RNA-binding proteins based on extensible cubic hybrid framework](https://doi.org/10.1016/j.compbiomed.2022.105940) |
+| **iDRBP_MMC** | DBPs/RBPs | [http://bliulab.net/iDRBP_MMC](http://bliulab.net/iDRBP_MMC) | [iDRBP_MMC: Identifying DNA-Binding Proteins and RNA-Binding Proteins Based on Multi-Label Learning Model and Motif-Based Convolutional Neural Network](https://doi.org/10.1016/j.jmb.2020.09.008) |
+| **iDRBP-EL** | DBPs/RBPs | [http://bliulab.net/iDRBP-EL](http://bliulab.net/iDRBP-EL) | [iDRBP-EL: Identifying DNA- and RNA- Binding Proteins Based on Hierarchical Ensemble Learning](https://doi.org/10.1109/TCBB.2021.3136905) |
+| **IDRBP-PPCT** | DBPs/RBPs | [http://bliulab.net/IDRBP-PPCT](http://bliulab.net/IDRBP-PPCT) | [IDRBP-PPCT: Identifying Nucleic Acid-Binding Proteins Based on Position-Specific Score Matrix and Position-Specific Frequency Matrix Cross Transformation](https://doi.org/10.1109/TCBB.2021.3069263) |
+| **iDRPro-SC** | DBPs/RBPs | [http://bliulab.net/iDRPro-SC](http://bliulab.net/iDRPro-SC) | [iDRPro-SC: identifying DNA-binding proteins and RNA-binding proteins based on subfunction classifiers](https://doi.org/10.1093/bib/bbad251) |
