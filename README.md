@@ -58,8 +58,9 @@
        Network URL:  http://<your-network-ip>:8501
     9. **Access the Application**: Once the Streamlit app is running, it should automatically open in your browser. If it doesn't, or if you want to manually check, simply open your browser and navigate to `http://localhost:8501` to view and interact with the web application.
 
-**Citation**
-If you find this repository useful, please cite our paper:
+## Citation
+
+If you find this repository useful, please cite our paper: 
 ```
 @article{mu2025drbp,
   title={DRBP-EDP: classification of DNA-binding proteins and RNA-binding proteins using ESM-2 and dual-path neural network},
@@ -73,7 +74,7 @@ If you find this repository useful, please cite our paper:
 }
 ```
 
-**Other methods:**
+## Other methods
 | Methods | Prediction Types | Server Links | Citations  |
 |--------------------------|-----------|----------|------------------------------|
 | **PlDBPred** | DBPs | [https://iasri-sg.icar.gov.in/pldbpred/](https://iasri-sg.icar.gov.in/pldbpred/) | [PlDBPred: a novel computational model for discovery of DNA binding proteins in plants](https://doi.org/10.1093/bib/bbac483) |
